@@ -1,1 +1,1 @@
-# go-calc
+Another implementation of Recursive descent parser written in Go.
